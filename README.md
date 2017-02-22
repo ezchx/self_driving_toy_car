@@ -1,6 +1,6 @@
 # self_driving_vehicle
 
-The vehicle is based on the SainSmart UNO 4wd car kit plus 8 HC-SR04 sensors plus an ESP8266 Wifi module.
+The vehicle used for this project is the SainSmart UNO 4wd car kit plus 8 HC-SR04 sensors plus an ESP8266 Wifi module.
 
 File summary:<br>
 
