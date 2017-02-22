@@ -1,6 +1,6 @@
 # self_driving_vehicle
 
-![](https://github.com/ezchx/self_driving_vehicle/carbot.jpg)
+![](https://github.com/ezchx/self_driving_vehicle/blob/master/carbot.jpg)
 
 The vehicle used for this project is the SainSmart UNO 4wd car kit plus 8 HC-SR04 sensors plus an ESP8266 Wifi module.
 
