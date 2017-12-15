@@ -1,4 +1,4 @@
-# self_driving_vehicle
+# self_driving_model
 
 ![](https://github.com/ezchx/self_driving_vehicle/blob/master/carbot_small.jpg)
 
